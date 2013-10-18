@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/!svn/ver/885/tags/2.2.7
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/885/tags/2.2.7/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/885/tags/2.2.7/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/885/tags/2.2.7/project.properties
+END
+update-translations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/885/tags/2.2.7/update-translations.rb
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/885/tags/2.2.7/.project
+END
+lint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/885/tags/2.2.7/lint.xml
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/885/tags/2.2.7/proguard-project.txt
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/885/tags/2.2.7/AndroidManifest.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/885/tags/2.2.7/build.xml
+END
